@@ -1,0 +1,12 @@
+constructs>=10.0.0,<11.0.0
+aws-cdk-lib==2.173.4
+importlib-metadata
+importlib-resources
+zipp
+boto3
+tomli
+deepmerge
+aws_cdk.aws_apigatewayv2_alpha
+aws_cdk.aws_apigatewayv2_authorizers_alpha
+aws_cdk.aws_apigatewayv2_integrations_alpha
+aws_cdk.aws_redshift_alpha

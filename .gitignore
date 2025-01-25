@@ -1,0 +1,6 @@
+.venv
+venv
+.idea
+cherimoya-cdk/__pycache__
+cherimoya-cdk.egg-info
+.pdm-python
