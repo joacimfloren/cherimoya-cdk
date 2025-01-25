@@ -12,10 +12,10 @@ with open(path.join(here, "requirements.txt")) as f:
     deps = [_.strip() for _ in f.readlines() if _.strip() != ""]
 
 setup(
-    name="cherimoya-cdk",
+    name="cherimoya_cdk",
     version="2.1.4",
     description="Useful CDK constructs",
-    url="https://github.com/jaocimfloren/cherimoya-cdk.git",
+    url="https://github.com/joacimfloren/cherimoya_cdk.git",
     author="Joacim Florén",
     author_email="joacimfloren@gmail.com",
     license="MIT",
